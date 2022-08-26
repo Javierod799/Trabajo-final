@@ -1,0 +1,19 @@
+@mixin texto($fontSize, $lineHeight, $fontWeight) {
+    font-size: $fontSize;
+    line-height: $lineHeight;
+    font-weight: $fontWeight;
+    color: $main-color;
+
+}
+
+$paleta:(
+    'uno': orange
+    'dos': rgba(190, 126, 5, 0.945)
+    'tres': rgb(255, 186, 58)
+);
+
+
+
+.bg-orange{
+ background-color: map-get($map:$paleta, $key:'uno');
+}
