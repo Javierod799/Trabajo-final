@@ -1,4 +1,15 @@
-Trabajo final FyP Balanceados - Javier Rodriguez
+Trabajo final FyP Balanceados - Javier Rodriguez 
+--
+
+  
+https://javierod799.github.io/Trabajo-final/   -Github Pages
+
+https://fypbalanceados.netlify.app/   -Servidor
+
+https://github.com/Javierod799/Trabajo-final/tree/master   -Repositorio github
+
+
+--
 
 El proyecto esta basado en una distribuidora de alimentos balanceados para mascotas, el objetivo final es una pagina informativa para que los clientes puedan conocer la empresa e informarse.
 
@@ -13,4 +24,6 @@ El proyecto esta basado en una distribuidora de alimentos balanceados para masco
 La pagina de error 404 sera encontrada si presionamos los botones de "comprar" dentro de la pagina de productos, o al intentar enviar el formulario en la pagina de contacto.
 
 En la pagina de productos, al ir a una resolucion mas intermedia (tablet), los productos de la linea can active y linea 4 huellas, quedan impares y disparejos, esto lo solucionare mas adelante cuando tenga los productos faltantes de ambas lineas, para que quede todo bien organizado.
---
+
+
+
